@@ -19,6 +19,8 @@ header h2{
     color: white;
     font-size: 1.3em;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.246);
+    margin: 20px 30px;
+    
 }
 header h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
