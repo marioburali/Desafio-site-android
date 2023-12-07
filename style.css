@@ -81,7 +81,7 @@ main img{
     margin: auto;
 }
 main img.img-p{
-    width: 40%;
+    max-width: 350px;
 }
 body{
     text-align: justify;
