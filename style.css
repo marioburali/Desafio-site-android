@@ -121,6 +121,9 @@ section#pt2 h1{
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 8px 8px 0px 0px;
 }
+section#pt2 ul{
+    text-align: left;
+}
 footer{
     background-color: rgb(50, 100, 50);;
     color: rgb(255, 255, 255);
